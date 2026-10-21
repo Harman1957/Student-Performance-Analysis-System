@@ -1,0 +1,13 @@
+Student_ID,Name,English,Mathematics,Science,Computer,Social_Studies,Total,Percentage,Grade,Result,Support_Subjects
+S001,Aarav Sharma,85,78,92,88,81,424,84.8,A,Pass,None
+S002,Priya Singh,92,95,89,94,96,466,93.2,A+,Pass,None
+S003,Rohan Kumar,45,52,48,55,50,250,50.0,D,Pass,None
+S004,Simran Kaur,76,82,79,85,80,402,80.4,A,Pass,None
+S005,Kabir Verma,32,41,38,45,35,191,38.2,F,Needs Improvement,"English, Science, Social_Studies"
+S006,Ananya Gupta,88,91,84,90,87,440,88.0,A,Pass,None
+S007,Ishaan Patel,67,72,61,70,74,344,68.8,C,Pass,None
+S008,Mehak Arora,55,48,62,58,60,283,56.6,D,Pass,None
+S009,Dev Malhotra,95,89,97,93,91,465,93.0,A+,Pass,None
+S010,Jasleen Gill,40,35,52,44,39,210,42.0,E,Needs Improvement,"Mathematics, Social_Studies"
+S011,Aditya Rao,73,68,75,71,77,364,72.8,B,Pass,None
+S012,Navya Joshi,81,86,78,83,89,417,83.4,A,Pass,None
